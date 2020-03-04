@@ -39,7 +39,7 @@
 2. 您至少要拥有 macOS Alfred 3 及以上版本并激活 Powerpack。
 3. 您需要安装 Python 3 及相应的依赖模块，并将 Python 3 路径填写在`PYTHON_PATH`处。
 4. 您需要申请并将对应接口的配置填入环境变量，部分接口附带我自己的 Key，但严禁滥用。
-5. 具体配置方法请移步 [Q&A](https://github.com/Chandler-Lu/alfred-ocr/wiki/Q&A)。
+5. 具体配置方法请移步 [安装方式](https://github.com/Chandler-Lu/alfred-ocr/wiki/Install-CN)。
 
 ### 设置方式
 
@@ -54,7 +54,7 @@
 pip install cnocr
 ```
 
-### ZXing (QR code Offline)
+### ZXing
 
 ``` bash
 pip install zxing
